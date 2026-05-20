@@ -3,7 +3,7 @@ import "./globals.css";
 
 import Footer from "@/components/footer";
 import Navbar from "@/components/navbar/navbar";
-import { Nav } from "@/components/navbar/useNav";
+
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
